@@ -2,6 +2,10 @@
 
 A [ModelContextProtocol](https://modelcontextprotocol.io) server that enables AI assistants to interact with Figma files. This server provides tools for viewing, commenting, and analyzing Figma designs directly through the ModelContextProtocol.
 
+<a href="https://glama.ai/mcp/servers/7muhz3xl36">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/7muhz3xl36/badge" alt="Figma Server MCP server" />
+</a>
+
 ## Features
 
 - Add a Figma file to your chat with Claude by providing the url
