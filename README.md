@@ -1,4 +1,5 @@
 # Figma MCP Server
+[![smithery badge](https://smithery.ai/badge/@MatthewDailey/figma-mcp)](https://smithery.ai/server/@MatthewDailey/figma-mcp)
 
 A [ModelContextProtocol](https://modelcontextprotocol.io) server that enables AI assistants to interact with Figma files. This server provides tools for viewing, commenting, and analyzing Figma designs directly through the ModelContextProtocol.
 
@@ -8,6 +9,14 @@ A [ModelContextProtocol](https://modelcontextprotocol.io) server that enables AI
 - Read and post comments on Figma files
 
 ## Setup with Claude
+
+### Installing via Smithery
+
+To install Figma MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MatthewDailey/figma-mcp):
+
+```bash
+npx -y @smithery/cli install @MatthewDailey/figma-mcp --client claude
+```
 
 1. Download and install Claude desktop app from [claude.ai/download](https://claude.ai/download)
 
